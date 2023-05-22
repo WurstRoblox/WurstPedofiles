@@ -12,10 +12,6 @@
         "ProfileName": "WhatTheDogDoing",
         "OnlineProfileName": "WhatTheDogDoing.vapeprofile.txt"
     },
-    "Asszura": {
-        "ProfileName": "Asszura Skidded",
-        "OnlineProfileName": "Asszura.vapeprofile.txt"
-    },
     "SkiddioWare": {
         "ProfileName": "SkiddioWare",
         "OnlineProfileName": "OhioWare.vapeprofile.txt"
