@@ -17,7 +17,7 @@
         "OnlineProfileName": "Asszura.vapeprofile.txt"
     },
     "SkiddioWare": {
-        "ProfileName": "OhioWare",
+        "ProfileName": "SkiddioWare",
         "OnlineProfileName": "OhioWare.vapeprofile.txt"
     }
 }
