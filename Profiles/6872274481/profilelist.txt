@@ -1,19 +1,7 @@
 
 {
-    "Pisstonware": {
-        "ProfileName": "Pisstonware🤮🤮🤮🤮",
-        "OnlineProfileName": "trashconfig.vapeprofile.txt"
-    },
-    "Shitty Config": {
-        "ProfileName": "KenriConfig",
-        "OnlineProfileName": "KenriConfig.vapeprofile.txt"
-    },
-    "WhatTheDogDoing Config": {
-        "ProfileName": "WhatTheDogDoing",
-        "OnlineProfileName": "WhatTheDogDoing.vapeprofile.txt"
-    },
-    "SkiddioWare": {
-        "ProfileName": "SkiddioWare",
-        "OnlineProfileName": "OhioWare.vapeprofile.txt"
+    "Pistonware": {
+        "ProfileName": "Pistonware",
+        "OnlineProfileName": "onlyconfig.vapeprofile.txt"
     }
 }
