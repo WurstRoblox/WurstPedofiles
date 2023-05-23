@@ -1,7 +1,11 @@
 
 {
-    "Pistonware": {
-        "ProfileName": "Pistonware",
-        "OnlineProfileName": "onlyconfig.vapeprofile.txt"
+    "Pistonware WE": {
+        "ProfileName": "Pistonware Wurst Edition",
+        "OnlineProfileName": "onlyconfig.wurstprofile.txt"
+    },
+    "Wurstonware": {
+        "ProfileName": "Wurstonware",
+        "OnlineProfileName":  "otheronlyconfig.wurstprofile.txt"
     }
 }
